@@ -11,8 +11,11 @@
     background-color:rgb(131, 81, 223) ;
 }
 
-.wrapper{
+body{
     background-image: url(../img/Kerfin7-NEA-2254.jpg);
+}
+
+.wrapper{
     display: flex;
     flex-direction: column;
     max-width: 100vw;
